@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../cakeapp/mlflowwork_1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
